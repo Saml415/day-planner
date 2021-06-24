@@ -27,4 +27,12 @@ $( ".time-block" ).each(function(index) {
   });
 
 
-$('.saveBtn')
+$('.saveBtn').click(function(event) {
+    event.preventDefault();
+    var userInput = $(this).siblings().eq(1).val();
+    id = $(this).parent().attr("id")
+    localStorage.setItem(id , userInput);
+
+
+
+})
