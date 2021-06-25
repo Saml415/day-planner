@@ -8,3 +8,6 @@ This repository is for a day planner app. It contans many dynamic elements to it
 1. Index.html is located on top layer of directory.
 
 2. The Assets folder conatins the stylesheet and the javascript. (Style.css and Script.js)
+
+
+![Capture](https://user-images.githubusercontent.com/81829274/123346490-4b53b400-d50d-11eb-92a0-96e32fa3a1e8.PNG)
